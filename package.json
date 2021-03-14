@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "apollo-server": "^2.21.1",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^4.6.0",
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.2.5",
+    "node-sass": "^5.0.0",
+    "react-bootstrap": "^1.5.2",
+    "sequelize": "^6.5.0"
+  },
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "name": "chat-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunXie/ChatApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KunXie/ChatApp/issues"
+  },
+  "homepage": "https://github.com/KunXie/ChatApp#readme",
+  "description": ""
+}
